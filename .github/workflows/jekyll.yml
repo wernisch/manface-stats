@@ -33,7 +33,7 @@ jobs:
 
       - name: Push data using personal access token
         env:
-          TOKEN: ${{ secrets.GH_TOKEN }}
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:main
