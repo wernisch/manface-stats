@@ -1,102 +1,93 @@
 {
   "games": [
     {
-      "id": 8633603548,
-      "rootPlaceId": 108630384493226,
-      "name": "Lucky Block Arena",
-      "playing": 108,
-      "visits": 302055,
-      "likeRatio": 55,
-      "icon": ""
-    },
-    {
-      "id": 8617745696,
-      "rootPlaceId": 116739501459923,
-      "name": "Draw Troll Tower",
-      "playing": 76,
-      "visits": 6123455,
-      "likeRatio": 71,
-      "icon": ""
-    },
-    {
-      "id": 8818258566,
-      "rootPlaceId": 85209692223971,
-      "name": "Scam a Brainrot",
-      "playing": 35,
-      "visits": 260420,
-      "likeRatio": 92,
-      "icon": ""
-    },
-    {
-      "id": 8750900425,
-      "rootPlaceId": 85573803794783,
-      "name": "Doodle Tower",
-      "playing": 31,
-      "visits": 928176,
+      "id": 8755437841,
+      "rootPlaceId": 71004867430707,
+      "name": "Draw Troll Tower 2 🖌️",
+      "playing": 7,
+      "visits": 0,
       "likeRatio": 69,
       "icon": ""
     },
     {
-      "id": 7209470598,
-      "rootPlaceId": 137836647738171,
-      "name": "Control a Cart [2 Player Obby]",
-      "playing": 13,
-      "visits": 5893884,
-      "likeRatio": 67,
+      "id": 7253578148,
+      "rootPlaceId": 102393731850579,
+      "name": "Grow Your Poop 💩",
+      "playing": 2,
+      "visits": 0,
+      "likeRatio": 92,
       "icon": ""
     },
     {
       "id": 6946284723,
       "rootPlaceId": 128017651370280,
       "name": "Grow Your Country!",
-      "playing": 11,
-      "visits": 27556475,
+      "playing": 1,
+      "visits": 0,
       "likeRatio": 85,
-      "icon": ""
-    },
-    {
-      "id": 6270047231,
-      "rootPlaceId": 18503970677,
-      "name": "Neko Girl Survival 😺",
-      "playing": 6,
-      "visits": 11260492,
-      "likeRatio": 93,
-      "icon": ""
-    },
-    {
-      "id": 7107426422,
-      "rootPlaceId": 79819747404625,
-      "name": "Emoji Evolution",
-      "playing": 5,
-      "visits": 4660014,
-      "likeRatio": 93,
-      "icon": ""
-    },
-    {
-      "id": 8755437841,
-      "rootPlaceId": 71004867430707,
-      "name": "Draw Troll Tower 2 🖌️",
-      "playing": 5,
-      "visits": 428161,
-      "likeRatio": 69,
       "icon": ""
     },
     {
       "id": 8065007541,
       "rootPlaceId": 113775878638901,
       "name": "99 Days on Infected Farm",
-      "playing": 4,
-      "visits": 778781,
+      "playing": 1,
+      "visits": 0,
       "likeRatio": 31,
       "icon": ""
     },
     {
-      "id": 7923536197,
-      "rootPlaceId": 117262185010169,
-      "name": "Brainrot Stairs",
-      "playing": 3,
-      "visits": 2597874,
-      "likeRatio": 74,
+      "id": 8120277194,
+      "rootPlaceId": 94814332487701,
+      "name": "[UPD]Squid Game Roleplay Tower",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 90,
+      "icon": ""
+    },
+    {
+      "id": 6918643678,
+      "rootPlaceId": 117388592780852,
+      "name": "Anime Girl Escape 🔪 [HORROR]",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 64,
+      "icon": ""
+    },
+    {
+      "id": 7107426422,
+      "rootPlaceId": 79819747404625,
+      "name": "Emoji Evolution",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 93,
+      "icon": ""
+    },
+    {
+      "id": 7200210851,
+      "rootPlaceId": 134502267895305,
+      "name": "Superhero Evolution",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 89,
+      "icon": ""
+    },
+    {
+      "id": 6734217025,
+      "rootPlaceId": 111945659689470,
+      "name": "Zombie Apocalypse 🧟",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 91,
+      "icon": ""
+    },
+    {
+      "id": 6902695116,
+      "rootPlaceId": 97911995231228,
+      "name": "Sprunki Survival🎵",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 95,
       "icon": ""
     },
     {
@@ -104,8 +95,26 @@
       "rootPlaceId": 71162894881069,
       "name": "Cat Apocalypse😸",
       "playing": 0,
-      "visits": 1039854,
+      "visits": 0,
       "likeRatio": 93,
+      "icon": ""
+    },
+    {
+      "id": 6270047231,
+      "rootPlaceId": 18503970677,
+      "name": "Neko Girl Survival 😺",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 93,
+      "icon": ""
+    },
+    {
+      "id": 8682469719,
+      "rootPlaceId": 127564453906076,
+      "name": "Brainrot Backrooms",
+      "playing": 0,
+      "visits": 0,
+      "likeRatio": 57,
       "icon": ""
     }
   ]
