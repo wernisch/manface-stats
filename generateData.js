@@ -58,7 +58,7 @@ const gameIds = [
 
 
 const proxyUrl = "https://manface.bloxyhdd.workers.dev/?url=";
-const BATCH_SIZE = 75;
+const BATCH_SIZE = 50;
 const REQUEST_TIMEOUT_MS = 20000;
 const MAX_ATTEMPTS = 4;
 
