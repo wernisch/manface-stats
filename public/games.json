@@ -4,8 +4,8 @@
       "id": 10152905521,
       "rootPlaceId": 93829858358973,
       "name": "💪 +1 Muscle to Break Walls",
-      "playing": 10212,
-      "visits": 61064926,
+      "playing": 12116,
+      "visits": 61164513,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-307fb6b38d7fef75b3e4ba12cb80fc9e/768/432/Image/Png/noFilter"
     },
@@ -13,35 +13,35 @@
       "id": 10295775318,
       "rootPlaceId": 80966775418211,
       "name": "+1 Laser to Escape 💥 ",
-      "playing": 1950,
-      "visits": 8951194,
+      "playing": 2376,
+      "visits": 8969014,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-f1bd96803d0e95ec2323aaa79f0b4760/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 9871049410,
-      "rootPlaceId": 121208024528653,
-      "name": "Connect the Words 💬",
-      "playing": 908,
-      "visits": 23998180,
-      "likeRatio": 83,
-      "icon": "https://tr.rbxcdn.com/180DAY-2c517cabdbef1b95f7d473bd098ac854/768/432/Image/Png/noFilter"
     },
     {
       "id": 8683739287,
       "rootPlaceId": 77336225852238,
       "name": "Boxing Battles 🥊",
-      "playing": 689,
-      "visits": 31748650,
+      "playing": 937,
+      "visits": 31756237,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-d2fe7340f1ae382ff45cae1c62f4aca1/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 9871049410,
+      "rootPlaceId": 121208024528653,
+      "name": "Connect the Words 💬",
+      "playing": 919,
+      "visits": 24008230,
+      "likeRatio": 83,
+      "icon": "https://tr.rbxcdn.com/180DAY-2c517cabdbef1b95f7d473bd098ac854/768/432/Image/Png/noFilter"
     },
     {
       "id": 8617745696,
       "rootPlaceId": 116739501459923,
       "name": "Draw Troll Tower",
-      "playing": 174,
-      "visits": 10372817,
+      "playing": 145,
+      "visits": 10375325,
       "likeRatio": 70,
       "icon": "https://tr.rbxcdn.com/180DAY-035084784a3c0445708ee8a58d222eb3/768/432/Image/Png/noFilter"
     },
@@ -49,8 +49,8 @@
       "id": 9079769327,
       "rootPlaceId": 91230424485826,
       "name": "Building Playground 🔨",
-      "playing": 26,
-      "visits": 13564417,
+      "playing": 33,
+      "visits": 13564736,
       "likeRatio": 61,
       "icon": "https://tr.rbxcdn.com/180DAY-50c7f3fd2436ecc83d83399f0217f9d8/768/432/Image/Png/noFilter"
     },
@@ -58,35 +58,26 @@
       "id": 9003825222,
       "rootPlaceId": 92559194755810,
       "name": "Walk to Color 🎨",
-      "playing": 21,
-      "visits": 18383175,
+      "playing": 24,
+      "visits": 18383665,
       "likeRatio": 83,
       "icon": "https://tr.rbxcdn.com/180DAY-f9d9fc86802c3c6c46bebf58f641d956/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7277414074,
-      "rootPlaceId": 94857518748707,
-      "name": "Snowy Rails ❄️ [NEW BOSS!]",
-      "playing": 19,
-      "visits": 9425456,
-      "likeRatio": 71,
-      "icon": "https://tr.rbxcdn.com/180DAY-4d9519ec28782fdfbb004d6d9cbc5598/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 9191224337,
-      "rootPlaceId": 139581359011802,
-      "name": "Climb to MAGIC CARPET! ✨",
-      "playing": 18,
-      "visits": 892125,
-      "likeRatio": 76,
-      "icon": "https://tr.rbxcdn.com/180DAY-dbbce8c35be6529539f43a024dd7b649/768/432/Image/Png/noFilter"
+      "id": 8129382678,
+      "rootPlaceId": 139579714097474,
+      "name": "Aimbot Shooter",
+      "playing": 21,
+      "visits": 10519925,
+      "likeRatio": 94,
+      "icon": "https://tr.rbxcdn.com/180DAY-821a6b936a1c0ae20cdcf53efbceb5d5/768/432/Image/Png/noFilter"
     },
     {
       "id": 6946284723,
       "rootPlaceId": 128017651370280,
       "name": "Grow Your Country!",
-      "playing": 17,
-      "visits": 31997373,
+      "playing": 19,
+      "visits": 31997639,
       "likeRatio": 85,
       "icon": "https://tr.rbxcdn.com/180DAY-1f1905a0cf8f5b6e5d7fe8fd18bacd4c/768/432/Image/Png/noFilter"
     },
@@ -94,8 +85,8 @@
       "id": 8976177098,
       "rootPlaceId": 112333428541335,
       "name": "Camo Murder Mystery",
-      "playing": 17,
-      "visits": 1723188,
+      "playing": 19,
+      "visits": 1723488,
       "likeRatio": 75,
       "icon": "https://tr.rbxcdn.com/180DAY-01fc903318b26b50f3e8753c333480fa/768/432/Image/Png/noFilter"
     },
@@ -103,134 +94,125 @@
       "id": 7133320099,
       "rootPlaceId": 75965306756161,
       "name": "Color.io",
-      "playing": 13,
-      "visits": 64453001,
+      "playing": 18,
+      "visits": 64453328,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-bccfb7100bb9f0a80310bfd710be6643/768/432/Image/Png/noFilter"
     },
     {
-      "id": 8129382678,
-      "rootPlaceId": 139579714097474,
-      "name": "Aimbot Shooter",
-      "playing": 11,
-      "visits": 10519498,
-      "likeRatio": 94,
-      "icon": "https://tr.rbxcdn.com/180DAY-821a6b936a1c0ae20cdcf53efbceb5d5/768/432/Image/Png/noFilter"
+      "id": 7277414074,
+      "rootPlaceId": 94857518748707,
+      "name": "Snowy Rails ❄️ [NEW BOSS!]",
+      "playing": 17,
+      "visits": 9425709,
+      "likeRatio": 71,
+      "icon": "https://tr.rbxcdn.com/180DAY-4d9519ec28782fdfbb004d6d9cbc5598/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6918643678,
-      "rootPlaceId": 117388592780852,
-      "name": "Anime Girl Escape 🔪 [HORROR]",
-      "playing": 10,
-      "visits": 3146724,
-      "likeRatio": 64,
-      "icon": "https://tr.rbxcdn.com/180DAY-3637fba8cd688112d858047d33f1723b/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7253578148,
-      "rootPlaceId": 102393731850579,
-      "name": "Grow Your Poop 💩",
-      "playing": 6,
-      "visits": 19626848,
-      "likeRatio": 91,
-      "icon": "https://tr.rbxcdn.com/180DAY-3d9b59f4a6fe45924b0c93f9e349620d/768/432/Image/Png/noFilter"
+      "id": 9191224337,
+      "rootPlaceId": 139581359011802,
+      "name": "Climb to MAGIC CARPET! ✨",
+      "playing": 15,
+      "visits": 892303,
+      "likeRatio": 76,
+      "icon": "https://tr.rbxcdn.com/180DAY-dbbce8c35be6529539f43a024dd7b649/768/432/Image/Png/noFilter"
     },
     {
       "id": 7107426422,
       "rootPlaceId": 79819747404625,
       "name": "Emoji Evolution",
-      "playing": 6,
-      "visits": 5749069,
+      "playing": 10,
+      "visits": 5749146,
       "likeRatio": 93,
       "icon": "https://tr.rbxcdn.com/180DAY-af34d297f62db3b36ed9e38d0dd70f48/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7376489811,
-      "rootPlaceId": 136337689486462,
-      "name": "Country.io",
-      "playing": 6,
-      "visits": 2083500,
-      "likeRatio": 74,
-      "icon": "https://tr.rbxcdn.com/180DAY-e22714ef7a74eb08984791bb038ac7ff/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7200210851,
-      "rootPlaceId": 134502267895305,
-      "name": "Superhero Evolution",
-      "playing": 5,
-      "visits": 3327593,
-      "likeRatio": 91,
-      "icon": "https://tr.rbxcdn.com/180DAY-f83a280c723a88b847fdcf7225f30bfb/768/432/Image/Png/noFilter"
     },
     {
       "id": 10015903176,
       "rootPlaceId": 130981405524032,
       "name": "Aura Gym 💀",
-      "playing": 5,
-      "visits": 158770,
+      "playing": 9,
+      "visits": 158846,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-f7537fd8a9ef33c5d4525cf4f7127852/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7200210851,
+      "rootPlaceId": 134502267895305,
+      "name": "Superhero Evolution",
+      "playing": 8,
+      "visits": 3327741,
+      "likeRatio": 91,
+      "icon": "https://tr.rbxcdn.com/180DAY-f83a280c723a88b847fdcf7225f30bfb/768/432/Image/Png/noFilter"
     },
     {
       "id": 6270047231,
       "rootPlaceId": 18503970677,
       "name": "Neko Girl Survival 😺",
-      "playing": 4,
-      "visits": 11777473,
+      "playing": 8,
+      "visits": 11777618,
       "likeRatio": 93,
       "icon": "https://tr.rbxcdn.com/180DAY-70142123dee8cf9349c58d5a5fa82290/768/432/Image/Png/noFilter"
     },
     {
-      "id": 9323921130,
-      "rootPlaceId": 72798048389582,
-      "name": "Own a Zoo!",
-      "playing": 4,
-      "visits": 5707134,
-      "likeRatio": 77,
-      "icon": "https://tr.rbxcdn.com/180DAY-1bf4a393e62df29909b1ca1baad84ce7/768/432/Image/Png/noFilter"
+      "id": 6918643678,
+      "rootPlaceId": 117388592780852,
+      "name": "Anime Girl Escape 🔪 [HORROR]",
+      "playing": 7,
+      "visits": 3146954,
+      "likeRatio": 64,
+      "icon": "https://tr.rbxcdn.com/180DAY-3637fba8cd688112d858047d33f1723b/768/432/Image/Png/noFilter"
     },
     {
       "id": 7512276786,
       "rootPlaceId": 136391741306783,
       "name": "Territory.io",
-      "playing": 3,
-      "visits": 6846418,
+      "playing": 7,
+      "visits": 6846510,
       "likeRatio": 80,
       "icon": "https://tr.rbxcdn.com/180DAY-55b678dc12202aa01aa2d56b06b92eee/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7253578148,
+      "rootPlaceId": 102393731850579,
+      "name": "Grow Your Poop 💩",
+      "playing": 7,
+      "visits": 19627038,
+      "likeRatio": 91,
+      "icon": "https://tr.rbxcdn.com/180DAY-3d9b59f4a6fe45924b0c93f9e349620d/768/432/Image/Png/noFilter"
     },
     {
       "id": 7209470598,
       "rootPlaceId": 137836647738171,
       "name": "Control a Cart [2 Player Obby]",
-      "playing": 3,
-      "visits": 9188524,
+      "playing": 6,
+      "visits": 9188648,
       "likeRatio": 68,
       "icon": "https://tr.rbxcdn.com/180DAY-9c939f6d80b92c3ef4b0afc186fef3ab/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 9691591064,
-      "rootPlaceId": 72014741171109,
-      "name": "Steal Brainrots from Horrors",
-      "playing": 3,
-      "visits": 4307257,
-      "likeRatio": 94,
-      "icon": "https://tr.rbxcdn.com/180DAY-340c9f5bca98f23688b5bb1e53af5223/768/432/Image/Png/noFilter"
     },
     {
       "id": 7669571394,
       "rootPlaceId": 106735489487309,
       "name": "Car Evolution",
-      "playing": 2,
-      "visits": 2237061,
+      "playing": 6,
+      "visits": 2237135,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-f6ea08a477b4042d03e9f12fce53db72/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 9323921130,
+      "rootPlaceId": 72798048389582,
+      "name": "Own a Zoo!",
+      "playing": 5,
+      "visits": 5707197,
+      "likeRatio": 77,
+      "icon": "https://tr.rbxcdn.com/180DAY-1bf4a393e62df29909b1ca1baad84ce7/768/432/Image/Png/noFilter"
     },
     {
       "id": 8723763273,
       "rootPlaceId": 103123785815630,
       "name": "Flex a Brainrot",
-      "playing": 2,
-      "visits": 1790457,
+      "playing": 4,
+      "visits": 1790494,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-a5669bfc308a32286a9d9531d7d181b5/768/432/Image/Png/noFilter"
     },
@@ -238,46 +220,64 @@
       "id": 9332732468,
       "rootPlaceId": 79639077794358,
       "name": "Build your City!",
-      "playing": 2,
-      "visits": 2631695,
+      "playing": 4,
+      "visits": 2631730,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-8e2763842a96938f2f08b05cda57ae7a/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6903750207,
-      "rootPlaceId": 132648713371693,
-      "name": "Santa Ride [2 Player Obby]",
-      "playing": 1,
-      "visits": 8167665,
-      "likeRatio": 62,
-      "icon": "https://tr.rbxcdn.com/180DAY-5fc8e7fa74d716c079d33e724caa29ce/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8099904322,
-      "rootPlaceId": 86701945129377,
-      "name": "Ball Simulator [😡 UPD]",
-      "playing": 1,
-      "visits": 4043026,
-      "likeRatio": 93,
-      "icon": "https://tr.rbxcdn.com/180DAY-a37dcf5a6e65d96dbf33ddd8b0942677/768/432/Image/Png/noFilter"
     },
     {
       "id": 9525333656,
       "rootPlaceId": 86099183411996,
       "name": "[☢️] My Nuclear Farm",
-      "playing": 1,
-      "visits": 1127772,
+      "playing": 4,
+      "visits": 1127784,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-7b23368a73812b68e40091b81236678c/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7376489811,
+      "rootPlaceId": 136337689486462,
+      "name": "Country.io",
+      "playing": 2,
+      "visits": 2083560,
+      "likeRatio": 74,
+      "icon": "https://tr.rbxcdn.com/180DAY-e22714ef7a74eb08984791bb038ac7ff/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8152203996,
+      "rootPlaceId": 110061692147853,
+      "name": "My Singing Baddies",
+      "playing": 1,
+      "visits": 2653766,
+      "likeRatio": 89,
+      "icon": "https://tr.rbxcdn.com/180DAY-ae125c06683df1cb894a3dae59b77333/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 6903750207,
+      "rootPlaceId": 132648713371693,
+      "name": "Santa Ride [2 Player Obby]",
+      "playing": 0,
+      "visits": 8167678,
+      "likeRatio": 62,
+      "icon": "https://tr.rbxcdn.com/180DAY-5fc8e7fa74d716c079d33e724caa29ce/768/432/Image/Png/noFilter"
     },
     {
       "id": 8120277194,
       "rootPlaceId": 94814332487701,
       "name": "[UPD]Squid Game Roleplay Tower",
       "playing": 0,
-      "visits": 6939001,
+      "visits": 6939002,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-2f302092b72345eb7629000613688b78/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8099904322,
+      "rootPlaceId": 86701945129377,
+      "name": "Ball Simulator [😡 UPD]",
+      "playing": 0,
+      "visits": 4043069,
+      "likeRatio": 93,
+      "icon": "https://tr.rbxcdn.com/180DAY-a37dcf5a6e65d96dbf33ddd8b0942677/768/432/Image/Png/noFilter"
     },
     {
       "id": 8266341619,
@@ -305,15 +305,6 @@
       "visits": 3425019,
       "likeRatio": 74,
       "icon": "https://tr.rbxcdn.com/180DAY-27cb5222294cd3493f611f5b5dd915c1/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8152203996,
-      "rootPlaceId": 110061692147853,
-      "name": "My Singing Baddies",
-      "playing": 0,
-      "visits": 2653764,
-      "likeRatio": 89,
-      "icon": "https://tr.rbxcdn.com/180DAY-ae125c06683df1cb894a3dae59b77333/768/432/Image/Png/noFilter"
     },
     {
       "id": 8177567602,
@@ -464,7 +455,7 @@
       "rootPlaceId": 107630414283289,
       "name": "Roll For Weapons 🎲",
       "playing": 0,
-      "visits": 984371,
+      "visits": 984376,
       "likeRatio": 62,
       "icon": "https://tr.rbxcdn.com/180DAY-42bc7608683ffd56ff695b02299da9ea/768/432/Image/Png/noFilter"
     },
@@ -491,7 +482,7 @@
       "rootPlaceId": 107613414664820,
       "name": "My Calling Brainrots 📞",
       "playing": 0,
-      "visits": 530671,
+      "visits": 530689,
       "likeRatio": 91,
       "icon": "https://tr.rbxcdn.com/180DAY-cdda3401b411e950bb935b2d82caaeac/768/432/Image/Png/noFilter"
     },
@@ -518,7 +509,7 @@
       "rootPlaceId": 101664151117857,
       "name": "Draw a Car",
       "playing": 0,
-      "visits": 1888361,
+      "visits": 1888363,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-a88288c39deb8d8b3dd9c1451f490265/768/432/Image/Png/noFilter"
     },
@@ -527,16 +518,25 @@
       "rootPlaceId": 102820708046295,
       "name": "Soccer Duels ⚽",
       "playing": 0,
-      "visits": 1276470,
+      "visits": 1276483,
       "likeRatio": 54,
       "icon": "https://tr.rbxcdn.com/180DAY-26b1c84324db453cb2941bc15bd9aef1/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 9691591064,
+      "rootPlaceId": 72014741171109,
+      "name": "Steal Brainrots from Horrors",
+      "playing": 0,
+      "visits": 4307279,
+      "likeRatio": 94,
+      "icon": "https://tr.rbxcdn.com/180DAY-340c9f5bca98f23688b5bb1e53af5223/768/432/Image/Png/noFilter"
     },
     {
       "id": 9832388733,
       "rootPlaceId": 138045144321012,
       "name": "Math Run for Brainrots 🧠",
       "playing": 0,
-      "visits": 1635214,
+      "visits": 1635229,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-a301b97168174e78d379f0a9102aeee3/768/432/Image/Png/noFilter"
     },
